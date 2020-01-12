@@ -1,5 +1,5 @@
-# Date: 05/05/2018
-# Author: Mohamed
+# Date: 13/01/2020
+# Author: Kuching
 # Description: Session Handler
 
 from os import remove
