@@ -1,5 +1,5 @@
-# Date: 12/29/2018
-# Author: Mohamed
+# Date: 13/01/2020
+# Author: Kuching
 # Description: Manages bad proxies
 
 from .const import max_bad_proxies
