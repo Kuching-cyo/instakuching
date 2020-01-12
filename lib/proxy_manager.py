@@ -1,5 +1,5 @@
-# Date: 12/28/2018
-# Author: Mohamed 
+# Date: 13/01/2020
+# Author: Kuching 
 # Description: Proxy manager
 
 from time import sleep 
