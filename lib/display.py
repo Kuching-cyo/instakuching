@@ -1,5 +1,5 @@
-# 12/29/2018
-# Author: Mohamed 
+# Date: 13/01/2020
+# Author: Kuching
 # Description: Display 
 
 from os import system
