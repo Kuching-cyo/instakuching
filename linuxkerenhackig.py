@@ -1,5 +1,5 @@
 
-# Author: Mohamed
+# Author: Kuching
 
 
 from os.path import exists
