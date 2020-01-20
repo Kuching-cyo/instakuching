@@ -15,6 +15,6 @@ Cr: https://instagram.com/kuching._
 # $ cd instagram
 # $ pip install -r requirements.txt
 # $ pip2 install -r requirements.txt
-# $ python2 linuxkerenhackig.py (nama target) pass.txt
+# $ python2 kuching.py (nama target) pass.txt
 
 # Contoh : $ python2 kuching.py kuching._ pass.txt
